@@ -129,7 +129,7 @@ body{
     position: absolute;
     top: 100px;
     /* display: flex; */
-    justify-content: center;
+    /*justify-content: center;*/
     padding: 20px;
 
     animation: seeNoteAnimation 1s infinite;
